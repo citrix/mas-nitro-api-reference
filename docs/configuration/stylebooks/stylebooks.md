@@ -1,10 +1,10 @@
 #Stylebooks
 
-[allconfigpacks](allconfigpacks)
-[configpacks](configpacks)
-[graph](graph)
-[jobs](jobs)
-[schema](schema)
-[stylebooks](stylebooks)
+[allconfigpacks](../stylebooks/allconfigpacks.md)
+[configpacks](../stylebooks/configpacks.md)
+[graph](../stylebooks/graph.md)
+[jobs](../stylebooks/jobs.md)
+[schema](../stylebooks/schema.md)
+[stylebooks](../stylebooks/stylebooks.md)
 
 

@@ -1,5 +1,5 @@
 #Authentication
 
-[ns_authenticationvserver](ns_authenticationvserver)
+[ns_authenticationvserver](../authentication/ns_authenticationvserver.md)
 
 

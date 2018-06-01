@@ -1,11 +1,11 @@
 #HAProxy
 
-[haproxy](haproxy)
-[haproxyconfig](haproxyconfig)
-[haproxyhost](haproxyhost)
-[haproxy_device_profile](haproxy_device_profile)
-[managed_tp_vserver](managed_tp_vserver)
-[tp_loadbalancer](tp_loadbalancer)
-[user_managed_tp_vserver](user_managed_tp_vserver)
+[haproxy](../haproxy/haproxy.md)
+[haproxyconfig](../haproxy/haproxyconfig.md)
+[haproxyhost](../haproxy/haproxyhost.md)
+[haproxy_device_profile](../haproxy/haproxy_device_profile.md)
+[managed_tp_vserver](../haproxy/managed_tp_vserver.md)
+[tp_loadbalancer](../haproxy/tp_loadbalancer.md)
+[user_managed_tp_vserver](../haproxy/user_managed_tp_vserver.md)
 
 

@@ -1,8 +1,8 @@
 #Device SSL Certificates
 
-[ns_ssl_cert](ns_ssl_cert)
-[ns_ssl_csr](ns_ssl_csr)
-[ns_ssl_key](ns_ssl_key)
-[ssl_cert_threshold](ssl_cert_threshold)
+[ns_ssl_cert](../device-ssl-certificates/ns_ssl_cert.md)
+[ns_ssl_csr](../device-ssl-certificates/ns_ssl_csr.md)
+[ns_ssl_key](../device-ssl-certificates/ns_ssl_key.md)
+[ssl_cert_threshold](../device-ssl-certificates/ssl_cert_threshold.md)
 
 

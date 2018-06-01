@@ -1,7 +1,7 @@
 #Orchestration
 
-[admin](admin/admin)
-[common](common/common)
-[openstack](openstack/openstack)
+[admin](../orchestration/admin/admin.md)
+[common](../orchestration/common/common.md)
+[openstack](../orchestration/openstack/openstack.md)
 
 

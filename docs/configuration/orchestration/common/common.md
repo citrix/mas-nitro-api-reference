@@ -1,7 +1,7 @@
 #common
 
-[journalcontext](journalcontext)
-[journalcontextscope](journalcontextscope)
-[journaltask](journaltask)
+[journalcontext](../common/journalcontext.md)
+[journalcontextscope](../common/journalcontextscope.md)
+[journaltask](../common/journaltask.md)
 
 

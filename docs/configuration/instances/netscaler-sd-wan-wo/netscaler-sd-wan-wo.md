@@ -1,12 +1,12 @@
 #NetScaler SD-WAN WO
 
-[cbwanopt](cbwanopt)
-[cbwanopt_appflowconfig](cbwanopt_appflowconfig)
-[cbwanopt_currentconfig](cbwanopt_currentconfig)
-[cbwanopt_device_profile](cbwanopt_device_profile)
-[cbwanopt_image](cbwanopt_image)
-[cbwanopt_snmp_config](cbwanopt_snmp_config)
-[cbwanopt_summary](cbwanopt_summary)
-[cbwanopt_upgrade](cbwanopt_upgrade)
+[cbwanopt](../netscaler-sd-wan-wo/cbwanopt.md)
+[cbwanopt_appflowconfig](../netscaler-sd-wan-wo/cbwanopt_appflowconfig.md)
+[cbwanopt_currentconfig](../netscaler-sd-wan-wo/cbwanopt_currentconfig.md)
+[cbwanopt_device_profile](../netscaler-sd-wan-wo/cbwanopt_device_profile.md)
+[cbwanopt_image](../netscaler-sd-wan-wo/cbwanopt_image.md)
+[cbwanopt_snmp_config](../netscaler-sd-wan-wo/cbwanopt_snmp_config.md)
+[cbwanopt_summary](../netscaler-sd-wan-wo/cbwanopt_summary.md)
+[cbwanopt_upgrade](../netscaler-sd-wan-wo/cbwanopt_upgrade.md)
 
 

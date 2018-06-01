@@ -1,6 +1,6 @@
 #NetScaler Gateway
 
-[ns_vpnvserver](ns_vpnvserver)
-[user_managed_vserver](user_managed_vserver)
+[ns_vpnvserver](../netscaler-gateway/ns_vpnvserver.md)
+[user_managed_vserver](../netscaler-gateway/user_managed_vserver.md)
 
 
