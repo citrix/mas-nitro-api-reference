@@ -4,12 +4,12 @@ Configuration for Af report sys log for adaptive threshold resource.
 
 
 ##Properties 
-<span>(click to see [Operations](#opera))</span>
+<span>(click to see [Operations](#operations))</span>
 
 
 <table><thead><tr><th>Name</th><th>Data Type</th><th>Permissions</th><th>Description</th></tr></thead><tbody><tr><td>threshold_value</td><td>&lt;Integer></td><td>Read-write</td><td>threshold value in percentage.</td></tr><tr><td>monitor_duration</td><td>&lt;String></td><td>Read-write</td><td>threshold monitoring duration..</td></tr><tr><td>id</td><td>&lt;String></td><td>Read-write</td><td>Id is Adaptive threshold ID.</td></tr></tbody></table>
 ##Operations 
-<span>(click to see [Properties](#prope))</span>
+<span>(click to see [Properties](#properties))</span>
 
 
 [ADD]()| [DELETE](#d)| [GET (ALL)](#get-)| [UPDATE](#u)
@@ -29,7 +29,8 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 <b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/adaptive_threshold?onerror=&lt;String_value&gt;
 <b>HTTP Method:</b>null
-<b>Request Payload: </b>```{adaptive_threshold: {"id":<String_value>,"threshold_value":<Integer_value>,"monitor_duration":<String_value>}}```
+<b>Request Payload: </b>
+```{adaptive_threshold: {"id":<String_value>,"threshold_value":<Integer_value>,"monitor_duration":<String_value>}}```
 <b>Response Payload: </b>```{ "errorcode": 0, "message": "Done", "severity": ;ltString_value>, "adaptive_threshold":[{"threshold_name":<String_value>,"threshold_value":<Integer_value>,"monitor_duration":<String_value>,"id":<String_value>,"resource_type":<String_value>}]}```
 
 
