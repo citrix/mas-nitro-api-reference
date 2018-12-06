@@ -26,7 +26,7 @@ Configuration for Af report sys log for adaptive threshold resource.
 
 
 
-[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-)| [UPDATE](#update)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [UPDATE](#update)
 
 
 
