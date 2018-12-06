@@ -26,7 +26,7 @@ Configuration for NS CRvserver Information resource.
 
 
 
-[ENABLE](#enable)| [POLL]()| [GET](#get)| [DISABLE](#disable)
+[ENABLE](#enable)| [POLL](#poll)| [GET](#get)| [DISABLE](#disable)
 
 
 

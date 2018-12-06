@@ -26,7 +26,7 @@ Configuration for NS GSLbvserver Domain Information resource.
 
 
 
-[POLL]()| [GET](#get)
+[POLL](#poll)| [GET](#get)
 
 
 
