@@ -44,7 +44,7 @@ Some options that you can use for each operations:
 
 ***Note:*** 
 
-Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
+Mandatory parameters are marked in <span style="color:#FF0000;">red</span> and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
 
 
 
@@ -56,9 +56,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile?onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile?onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
@@ -132,9 +132,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Response Payload: </b>
 ```
@@ -155,9 +155,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Response Payload: </b>
 ```
@@ -202,9 +202,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Response Payload: </b>
 ```
@@ -249,9 +249,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_device_profile/id_value&lt;String&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```

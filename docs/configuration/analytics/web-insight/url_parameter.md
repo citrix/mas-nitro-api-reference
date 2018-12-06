@@ -44,7 +44,7 @@ Some options that you can use for each operations:
 
 ***Note:*** 
 
-Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
+Mandatory parameters are marked in <span style="color:#FF0000;">red</span> and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
 
 
 
@@ -56,9 +56,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter?onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter?onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
@@ -86,9 +86,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Response Payload: </b>
 ```
@@ -110,9 +110,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter/
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/url_parameter/
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```

@@ -44,7 +44,7 @@ Some options that you can use for each operations:
 
 ***Note:*** 
 
-Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
+Mandatory parameters are marked in <span style="color:#FF0000;">red</span> and placeholder content is marked in <span style="color:green;font-style:italic">&lt;green&gt;</span>.
 
 
 
@@ -56,9 +56,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=remove;onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=remove;onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
@@ -156,9 +156,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Response Payload: </b>
 ```
@@ -224,9 +224,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=modify_password;onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=modify_password;onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
@@ -324,9 +324,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=form_cluster;onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=form_cluster;onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
@@ -424,9 +424,9 @@ Mandatory parameters are marked in <span style="color:#FF0000;">red</span>and pl
 
 
 
-<b>URL:</b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=join;onerror=&lt;String_value&gt;
+<b>URL: </b>https://&lt;MGMT-IP&gt;/nitro/v1/config/ns_cluster?action=join;onerror=&lt;String_value&gt;
 
-<b>HTTP Method:</b>null
+<b>HTTP Method: </b>null
 
 <b>Request Payload: </b>
 ```
