@@ -26,7 +26,7 @@ Configuration for NS Filter Policy Configure Task resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)
+[ADD](#add)| [GET (ALL)](#get-all)
 
 
 

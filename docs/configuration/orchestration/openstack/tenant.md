@@ -26,7 +26,7 @@ Configuration for OpenStack Cloud configuration resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

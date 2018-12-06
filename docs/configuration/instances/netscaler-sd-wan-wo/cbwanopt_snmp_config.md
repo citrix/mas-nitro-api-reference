@@ -26,7 +26,7 @@ Configuration for SDX SNMP Configuration resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [UPDATE](#update)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [UPDATE](#update)
 
 
 

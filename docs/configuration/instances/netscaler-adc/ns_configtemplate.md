@@ -26,7 +26,7 @@ Configuration for NetScaler configuration template resource.
 
 
 
-[IMPORT_VARIABLES_FILE](#import_variables)| [ADD](#all)| [PREVIEW](#pr)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MODIFY](#m)
+[IMPORT_VARIABLES_FILE](#import_variables)| [ADD](#add)| [PREVIEW](#pr)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MODIFY](#m)
 
 
 

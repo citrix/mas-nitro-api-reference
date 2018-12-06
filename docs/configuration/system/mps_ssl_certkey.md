@@ -26,7 +26,7 @@ Configuration for Install SSL certificate on Management Service resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)
+[ADD](#add)| [GET (ALL)](#get-all)
 
 
 

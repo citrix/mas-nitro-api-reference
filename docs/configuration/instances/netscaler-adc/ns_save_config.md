@@ -26,7 +26,7 @@ Configuration for Save configuration on NetScaler resource.
 
 
 
-[ADD](#all)
+[ADD](#add)
 
 
 

@@ -26,7 +26,7 @@ Configuration for Managed Device resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)| [ANNOTATE](#ann)| [ADD_DEVICE](#add_d)| [UPLOAD](#u)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)| [ANNOTATE](#ann)| [ADD_DEVICE](#add_d)| [UPLOAD](#u)
 
 
 

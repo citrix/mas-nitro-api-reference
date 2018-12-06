@@ -26,7 +26,7 @@ Configuration for remote backup configuration resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [GET](#get)
+[ADD](#add)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

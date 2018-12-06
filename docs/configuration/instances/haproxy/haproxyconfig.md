@@ -26,7 +26,7 @@ Configuration for HAProxy Config resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [GET](#get)
+[ADD](#add)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

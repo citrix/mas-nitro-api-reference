@@ -26,7 +26,7 @@ Configuration for Syslog Server resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MODIFY](#m)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MODIFY](#m)
 
 
 

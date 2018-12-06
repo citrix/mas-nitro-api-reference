@@ -26,7 +26,7 @@ Configuration for Device generic utility resource.
 
 
 
-[ADD](#all)
+[ADD](#add)
 
 
 

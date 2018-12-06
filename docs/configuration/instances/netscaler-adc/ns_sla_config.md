@@ -26,7 +26,7 @@ Configuration for SLA Virtual server config on NetScaler resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)
 
 
 

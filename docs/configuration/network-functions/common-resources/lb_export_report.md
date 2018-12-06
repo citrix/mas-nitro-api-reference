@@ -26,7 +26,7 @@ Configuration for Export or Schedule NS Entities report resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [UPDATE](#update)| [DOWNLOAD](#dow)
+[ADD](#add)| [GET (ALL)](#get-all)| [UPDATE](#update)| [DOWNLOAD](#dow)
 
 
 

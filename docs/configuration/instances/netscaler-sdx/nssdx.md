@@ -26,7 +26,7 @@ Configuration for NetScaler SDX Platform resource.
 
 
 
-[REBOOT](#r)| [ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
+[REBOOT](#r)| [ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
 
 
 

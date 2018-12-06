@@ -26,7 +26,7 @@ Configuration for Managed Application resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [MODIFY](#m)
 
 
 

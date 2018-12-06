@@ -26,7 +26,7 @@ Configuration for This provides the FTU state of the user resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
+[ADD](#add)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
 
 
 

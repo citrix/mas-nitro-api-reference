@@ -26,7 +26,7 @@ Configuration for vmacs for shared vlans resource.
 
 
 
-[ADD](#all)| [REMOVE](#r)| [GET (ALL)](#get-all)
+[ADD](#add)| [REMOVE](#r)| [GET (ALL)](#get-all)
 
 
 

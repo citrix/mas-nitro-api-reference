@@ -26,7 +26,7 @@ Configuration for Device group consists of a details about type of devices and p
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPDATE](#update)
 
 
 

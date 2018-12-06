@@ -26,7 +26,7 @@ Configuration for NS IP on NetScaler resource.
 
 
 
-[ADD](#all)
+[ADD](#add)
 
 
 

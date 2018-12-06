@@ -26,7 +26,7 @@ Configuration for SSL certificate on NetScaler resource.
 
 
 
-[INVENTORY](#inve)| [ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [DOWNLOAD_CERTS (ALL)](#download_certs-)| [MODIFY](#m)| [GEN_CSR](#ge)
+[INVENTORY](#inve)| [ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [DOWNLOAD_CERTS (ALL)](#download_certs-)| [MODIFY](#m)| [GEN_CSR](#ge)
 
 
 

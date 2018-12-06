@@ -26,7 +26,7 @@ Configuration for Inventory resource.
 
 
 
-[ADD](#all)| [GET](#get)
+[ADD](#add)| [GET](#get)
 
 
 

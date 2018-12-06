@@ -26,7 +26,7 @@ Configuration for Security Insight Log Expression enable or disable resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [MODIFY](#m)
+[ADD](#add)| [GET (ALL)](#get-all)| [MODIFY](#m)
 
 
 

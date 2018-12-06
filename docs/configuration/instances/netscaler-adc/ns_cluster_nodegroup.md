@@ -26,7 +26,7 @@ Configuration for ns_cluster_nodegroup resource.
 
 
 
-[ADD](#all)
+[ADD](#add)
 
 
 

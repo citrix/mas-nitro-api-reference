@@ -26,7 +26,7 @@ Configuration for Login/Logout resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)
+[ADD](#add)| [DELETE](#delete)
 
 
 

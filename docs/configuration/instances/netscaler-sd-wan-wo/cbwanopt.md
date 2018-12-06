@@ -26,7 +26,7 @@ Configuration for CBWANOPT resource.
 
 
 
-[UNMANAGE](#unm)| [REBOOT](#r)| [ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MANAGE](#m)
+[UNMANAGE](#unm)| [REBOOT](#r)| [ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [MANAGE](#m)
 
 
 

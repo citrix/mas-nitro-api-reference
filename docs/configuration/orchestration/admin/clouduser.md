@@ -26,7 +26,7 @@ Configuration for A cloud user resource represents a tenant in the cloud. Tenant
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

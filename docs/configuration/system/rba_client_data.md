@@ -26,7 +26,7 @@ Configuration for RBA Client Data resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)
 
 
 

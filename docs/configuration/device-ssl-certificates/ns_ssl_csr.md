@@ -26,7 +26,7 @@ Configuration for CSR File resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPLOAD](#u)| [DOWNLOAD](#dow)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)| [UPLOAD](#u)| [DOWNLOAD](#dow)
 
 
 

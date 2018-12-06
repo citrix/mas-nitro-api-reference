@@ -26,7 +26,7 @@ Configuration for SNMP configuration resource.
 
 
 
-[ADD](#all)| [UPDATE](#update)
+[ADD](#add)| [UPDATE](#update)
 
 
 

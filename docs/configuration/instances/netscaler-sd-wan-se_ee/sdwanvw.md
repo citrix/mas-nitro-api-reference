@@ -26,7 +26,7 @@ Configuration for SDWANVW resource.
 
 
 
-[REBOOT](#r)| [ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
+[REBOOT](#r)| [ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

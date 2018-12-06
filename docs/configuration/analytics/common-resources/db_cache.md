@@ -26,7 +26,7 @@ Configuration for Af DB Cache enable resource.
 
 
 
-[ADD](#all)| [GET (ALL)](#get-all)| [MODIFY](#m)
+[ADD](#add)| [GET (ALL)](#get-all)| [MODIFY](#m)
 
 
 

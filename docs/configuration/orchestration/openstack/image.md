@@ -26,7 +26,7 @@ Configuration for The image uploaded in OpenStack that should be used for provis
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [GET](#get)
 
 
 

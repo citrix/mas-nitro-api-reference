@@ -26,7 +26,7 @@ Configuration for AF SLA Domain of Interest MCB Config Report table resource.
 
 
 
-[ADD](#all)| [DELETE](#delete)| [GET (ALL)](#get-all)| [UPDATE](#update)
+[ADD](#add)| [DELETE](#delete)| [GET (ALL)](#get-all)| [UPDATE](#update)
 
 
 

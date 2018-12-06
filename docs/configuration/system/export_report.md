@@ -26,7 +26,7 @@ Configuration for Export report resource.
 
 
 
-[ADD](#all)| [DOWNLOAD](#dow)
+[ADD](#add)| [DOWNLOAD](#dow)
 
 
 
